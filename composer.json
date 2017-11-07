@@ -1,15 +1,20 @@
 {
-	"name": "mcaskill/slim-polyglot",
+	"name": "ironsmile/slim-polyglot",
 	"type": "library",
 	"description": "Slim Framework language resolution middleware",
 	"keywords": [ "slim", "framework", "middleware", "language", "multilingual", "polylingual" ],
-	"homepage": "https://github.com/mcaskill/Slim-Polyglot",
+	"homepage": "https://github.com/ironsmile/Slim-Polyglot",
 	"license": "MIT",
 	"authors": [
 		{
 			"name": "Chauncey McAskill",
 			"email": "chauncey@mcaskill.ca",
 			"homepage": "https://mcaskill.ca"
+		},
+		{
+			"name": "Doychin Atanasov",
+			"email": "ironsmile@gmailm.com",
+			"homepage": "https://doycho.com"
 		}
 	],
 	"extra": {
